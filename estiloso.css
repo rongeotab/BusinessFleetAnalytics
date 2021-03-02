@@ -1,0 +1,20 @@
+      a.button {
+        background-color: #e60000;
+        border-radius: 8px;
+        color: white;
+        padding: 20px 34px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }    
+
+      H1 {
+        font-size: 45px;
+      }
+      
+      H2 {
+        font-size: 20px;
+      } 
