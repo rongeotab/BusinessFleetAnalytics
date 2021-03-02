@@ -10,7 +10,7 @@ Vodafone Business Fleet Analytics AddIn
 	"items": [
 		{
 			"url": "https://cdn.jsdelivr.net/gh/rongeotab/BusinessFleetAnalytics/FleetAnalytics.html",
-			"path": "",
+			"path": "RuleAndGroupsLink",
 			"menuName": {
 				"en": "Business Fleet Analytics"
 			}
